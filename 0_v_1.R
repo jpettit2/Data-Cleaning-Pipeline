@@ -1,6 +1,6 @@
 #### Function to Clean/ Preprocess Production data ####
 ####                                              #####
-##############Jacob Pettit 2019/12/4 ##################
+#################### 2019/12/4 ########################
 
 
 df <- as.data.frame(Titanic)
